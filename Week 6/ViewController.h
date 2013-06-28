@@ -10,4 +10,14 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
+@property (weak, nonatomic) IBOutlet UITextField *topTxtFld;
+@property (weak, nonatomic) IBOutlet UITextField *bottomTxtFld;
+@property BOOL keyboardIsShown;
+@property UITextField *currentTextField;
+
+- (IBAction) dismissKeyboard:(id)sender;
+
+
+
 @end

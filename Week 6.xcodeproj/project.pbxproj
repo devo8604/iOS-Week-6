@@ -454,6 +454,7 @@
 				9480A2E31778214B00148838 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9480A2E41778214B00148838 /* Build configuration list for PBXNativeTarget "Week 6Tests" */ = {
 			isa = XCConfigurationList;
@@ -462,6 +463,7 @@
 				9480A2E61778214B00148838 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
